@@ -1,26 +1,19 @@
 
-* {
-    margin: 0;
-    padding: 0;
-}
-
-/* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ADD8E6;
+    background-color: #808080;
+
 
 ;
     padding: 20px;
 }
 
-/* Header styles */
 h1 {
     font-size: 36px;
     text-align: center;
     margin-bottom: 20px;
     background: #800000;
-    
-    
+
 }
 h2 {
     font-size: 24px;
@@ -30,7 +23,13 @@ h2 {
     
 }
 
-/* Paragraph styles */
+h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000000;
+
+}
 p {
     font-size: 16px;
     line-height: 1.5;
